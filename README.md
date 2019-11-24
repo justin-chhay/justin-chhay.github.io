@@ -1,6 +1,6 @@
-# My Personal Website - justin-chhay.github.io
-
+# My Personal Website
 **Version 1.0.0**
+> [justin-chhay.github.io](justin-chhay.github.io)
 
 Building on my web development abilities through a personal project.
 * Officially started on ~~29.10.2019~~ 23.11.2019
