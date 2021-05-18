@@ -1,6 +1,6 @@
 # My Personal Website
 **Version 1.0.0**
-> [Link to Website](justin-chhay.github.io)
+> [Link to Website](https://justin-chhay.github.io/)
 
 Building on my web development abilities through a personal project.
 * by Justin Chhay
