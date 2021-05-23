@@ -2,12 +2,12 @@
 **Version 1.0.0**
 > [Link to Website](https://justin-chhay.github.io/)
 
-Building on my web development abilities through a personal project.
 * by Justin Chhay
-> This might seem pretty barren at first, but I'll add onto it as I further develop my skillset.
+> A portfolio website about me.
 
 *** 
 # Resource Links
-* [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
-* [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [HTML5Up Template](https://html5up.net/)
+* [Unsplash Images](https://unsplash.com/)
+
 #### (incomplete)
