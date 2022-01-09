@@ -3,7 +3,7 @@
 > [Link to Website](https://justin-chhay.github.io/)
 
 * by Justin Chhay
-> A portfolio website about me.
+>👋 A portfolio website about me.
 
 *** 
 # Resource Links
